@@ -57,7 +57,7 @@ const Login = () => {
 
         <button  id="newnthbtn" type="submit">Login</button>
       </form>
-      
+      <h3>welcome{user}</h3>
     </div>
   )
 }
